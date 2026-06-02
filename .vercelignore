@@ -1,0 +1,11 @@
+dist
+hostinger-package
+dr-gestor-hostinger
+source-package
+*.zip
+*.log
+demo-payments.err.log
+demo-payments.out.log
+real-payments.err.log
+real-payments.out.log
+preview-test.log
